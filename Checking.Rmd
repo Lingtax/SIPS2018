@@ -1,0 +1,29 @@
+---
+title: "Checking yourself (and others)"
+output: html_notebook
+---
+
+- A fundamental problem is not fraud or QRPs, but sloppiness and uncritical evaluation
+
+## Statcheck
+- Statcheck can help you identify reporting errors. It's like spellcheck for stats.
+- Reads APA formatted statistics (60% of the time)
+- High but imperfect accuracy of identifying reporting errors
+- Available as an R package and online. 
+
+## GRIM
+GRIM is a method for identifying errors in the reporting of means. Where n<100, means rounded to 2 decimal places can only have certain terminal values. 
+Need to be mindful of exclusions which can change the effective N. 
+
+Accessible via [web app](nickbrown.fr/GRIM)
+
+## SPRITE
+
+Doesn't find mathematical errors, but can offer possible distributions which may or may not be plausible given the constructs being assesesed.
+
+Should be combined with other information to assess problems.
+ - Range (what range of observed scores are provided)
+ - Mentions (are components of the data otherwise described e.g. "x% responded in the affirmative")
+ - Grains (other inputs e.g. subscale)
+ 
+Allows interrogation of data plausibility, or appropriateness of analysis (i.e. did the data meet the distributional assumptions).
