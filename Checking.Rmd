@@ -10,9 +10,12 @@ output: html_notebook
 - Reads APA formatted statistics (60% of the time)
 - High but imperfect accuracy of identifying reporting errors
 - Available as an R package and online. 
+  - r packages is more powerful/flexible, but the online app has a lower barrier to entry
+  
+Use often / Always.
 
 ## GRIM
-GRIM is a method for identifying errors in the reporting of means. Where n<100, means rounded to 2 decimal places can only have certain terminal values. 
+GRIM is a method for identifying errors in the reporting of means. Where n<100, means rounded to 2 decimal places can only have certain terminal values. The applicability will decline as the number of items contributing to a measure increase. 
 Need to be mindful of exclusions which can change the effective N. 
 
 Accessible via [web app](nickbrown.fr/GRIM)
@@ -27,3 +30,18 @@ Should be combined with other information to assess problems.
  - Grains (other inputs e.g. subscale)
  
 Allows interrogation of data plausibility, or appropriateness of analysis (i.e. did the data meet the distributional assumptions).
+
+When looking at the results of a SPRITE simulation, be mindful of stacking up at the maximum or minimum values.
+
+
+## Other notes
+
+Be wary of the reporting of small SDs particularly with reporting of few decimal places. Where the possible range is small (e.g. 0-1), more decimal places are needed to represent the data.
+
+# What should we do when we suspect a problem in published work.
+
+- Calm down, it's probably nothing.
+- Get another person to look over the paper (blind).
+- Read other articles by the same author.
+- Check comparable effects
+- Leave contacting the author until late.

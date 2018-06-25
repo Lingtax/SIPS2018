@@ -1,0 +1,59 @@
+---
+title: "Questionable Measurement Practices"
+output: html_notebook
+---
+
+# Introduction
+
+Measurement in the real world matters, e.g. Mars Climate Orbiter lost due to unit conversion error.
+
+Measurement in physical systems is relatively easy by contrast. Because the measurement of implicit constructs is dependent on the underlying theory.
+
+See measurement resource list in Psych Observer. 
+
+In Flake evaluation of JPSP measurement
+ - Many measures appear ad hoc (no citation)
+ - Reliably terrible validation (Cronbach's alpha only)
+ 
+ 
+Measurement on the fly is frequent (changing items, dropping items)
+Alpha is quite low even when all that is reported.
+
+Pre-reg, power, HARKing free research is still vulnerable to bad measurement. 
+
+# Draft definition of QMPs
+A measurement decision that lacks definition and/or transparency
+
+In sum, document all choices / decisions, justify them, and disclose those justifications. 
+
+The Garden of Forking Paths passes through measurement too. This doesn't mean that taking particular paths is necessarily problematic, it's about the justification (or lack thereof).
+
+# Structuring QMPs
+
+## Measure selection
+
+1. What is the theory of the construct, how does the measure relate?
+  
+  - e.g. is the construct dichotomous/categorical/continuous? 
+  - Make this decision a-priori, don't measure continuous and bin later. You might be wrong, but you're not p-hacking. 
+  - Complex options: is your "construct"  a common cause of indicators, do your indicators "make up" the constuct" (importantly different), or is it a network?
+  
+2. What Measures exist?
+  
+
+3. Do they cover the content?
+
+ - Look to the comprehensiveness of measures for the desired outcomes (e.g. do they measure the domains that actually matter in this study). 
+ - Pick the measures that are needed for your question and no more.
+ 
+4. Are they psychometrically valid / sound?
+
+  - Think about fit for purpose (e.g. unidimensionality and temporal stability)
+
+## Measure use
+
+
+
+## Measure modification
+
+

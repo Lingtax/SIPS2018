@@ -2,4 +2,4 @@
 SIPS2018
 ========
 
-The goal of SIPS2018 is to ...
+Just a repository of all the notes taken at SIPS 2018.
